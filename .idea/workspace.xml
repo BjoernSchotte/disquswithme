@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="657a65ba-e47f-4465-a450-3e3271849390" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/carousel.html" afterPath="$PROJECT_DIR$/carousel.html" />
     </list>
     <ignored path="disquswithme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,19 +22,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="63" selection-start="199" selection-end="199" vertical-scroll-proportion="0.14872521">
+            <state line="7" column="63" selection-start="199" selection-end="199" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="carousel.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="carousel.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/carousel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="292" column="53" selection-start="7658" selection-end="7658" vertical-scroll-proportion="-18.583334">
+            <state line="393" column="102" selection-start="12293" selection-end="12293" vertical-scroll-proportion="0.35064936">
               <folding />
             </state>
           </provider>
@@ -63,8 +63,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/docs.html" />
-        <option value="$PROJECT_DIR$/carousel.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/carousel.html" />
       </list>
     </option>
   </component>
@@ -220,16 +220,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/carousel.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="292" column="53" selection-start="7658" selection-end="7658" vertical-scroll-proportion="-18.583334">
+        <state line="7" column="63" selection-start="199" selection-end="199" vertical-scroll-proportion="-4.375">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/carousel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="63" selection-start="199" selection-end="199" vertical-scroll-proportion="0.14872521">
+        <state line="393" column="102" selection-start="12293" selection-end="12293" vertical-scroll-proportion="0.35064936">
           <folding />
         </state>
       </provider>
